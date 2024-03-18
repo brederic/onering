@@ -7,4 +7,7 @@ Possible campaign themes
 - Make one of the PC’s the heir and start the group on the quest to face and defeat the Hill of Fear.
 - Explore the possibilities of adventuring in Middle Earth maximizing the use of animal that can be communicated with, used as combat companions and accomplish other tasks for the players. (the Radagast method)
 
-ANot
+Another change!!!
+
+Make sure you add this!
+

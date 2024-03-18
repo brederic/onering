@@ -2,7 +2,8 @@ This is the **NPC** view of the campaign database. Add new NPCs to this section.
 
 #### Campaign Database
 
-|Name|Last Edited|Tags|
-|---|---|---|
-|[[Thava Thricecursed]]|March 15, 2024 6:54 AM|Current, NPC, Villain|
-|[[Indithir]]|March 15, 2024 6:54 AM|Current, NPC|
+| Name                   | Last Edited            | Tags                  |
+| ---------------------- | ---------------------- | --------------------- |
+| [[Thava Thricecursed]] | March 15, 2024 6:54 AM | Current, NPC, Villain |
+| [[Indithir]]           | March 15, 2024 6:54 AM | Current, NPC          |
+|                        |                        |                       |
