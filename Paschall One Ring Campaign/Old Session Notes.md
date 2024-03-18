@@ -1,0 +1,1 @@
+Once a session is complete, drag your session notes under this page to archive them.
