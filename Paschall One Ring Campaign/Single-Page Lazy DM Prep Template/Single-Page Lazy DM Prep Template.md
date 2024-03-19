@@ -27,7 +27,7 @@ _Fill in the table below with information about the characters. Think about how 
 
 |Name|Player|P. Per|P. Inv|P. Ins|Skills|Languages|
 |---|---|---|---|---|---|---|
-|[[Untitled]]|||||||
+|[[Test Statblock]]|||||||
 |[[Untitled 3]]|||||||
 |[[Untitled 5]]|||||||
 |[[Untitled 4]]|||||||
