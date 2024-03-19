@@ -1,3 +1,6 @@
+---
+banner: "![[return_of_the_lazy_dungeon_master_cover_wide.jpg]]"
+---
   
 
 Possible campaign themes
